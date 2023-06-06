@@ -24,7 +24,7 @@
 ### Связаться со мной
 
  <div>
-        <a href="https://t.me/Sealui" target="_blank">
+        <a href="https://t.me/OlesyaSemiguk" target="_blank">
       <img style="margin: 10px" src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
     <a href="mailto:Olesya.semiguk@gmail.com"target="_blank">
